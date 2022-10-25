@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Santos</h1>
-<h3 align="center">Front End Developer - Studying Javascript</h3>
+<h3 align="center">Front End Developer - Student</h3>
 
 - 🌱 I’m currently learning: **JavaScript**
 
